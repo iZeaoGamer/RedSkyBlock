@@ -4,6 +4,7 @@ namespace RedCraftPE\RedSkyBlock\Commands\SubCommands;
 
 use pocketmine\command\Command;
 use pocketmine\utils\TextFormat;
+use pocketmine\command\CommandSender;
 
 class Leave {
 
